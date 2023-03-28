@@ -196,7 +196,7 @@ async function flipFlop(_playerOneChoice){
   let player = await queryResultRecent.args.player.toString();
   let option = await queryResultRecent.args.option.toString();
   let result = await queryResultRecent.args.result.toString();
-  let optioncomp = await queryResultRecent.args.result.toString();
+  let optioncomp = await queryResultRecent.args.optioncomp.toString();
 
 
   if (option == 1){
