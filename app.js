@@ -11,7 +11,7 @@ const paper_div = document.getElementById('paper');
 const scissors_div = document.getElementById('scissors');
 
 
-const contractAddress = "0x41968E58eA0e14747Cb462c9F4771b48D92b3C91";
+const contractAddress = "0x25f21A6EaC5413dDd7CbaCcf87524F2c8f6F2E26";
 const contractABI = [
 	{
 		"inputs": [],
